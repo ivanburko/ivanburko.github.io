@@ -13,3 +13,13 @@
 
 
 ![Sprite](https://i.postimg.cc/WzGBnjfY/for-test.png)
+
+## PALETTE OF 32 COLOURS
+![PALETTE](http://eastfarthing.com/blog/2016-05-06-palette/aek-32.png)
+
+## SCREEN 512х512
+![screen](https://i.postimg.cc/Vvwf1KxT/2023-03-26-14-50-32.png)
+## CODE ON PYTHON
+![PYTHON](https://pbs.twimg.com/profile_images/1083440528446947329/SWoBxJVA_400x400.jpg)
+
+# TEXT VISION IS IN DEVELOP AND IT WILL BE DONE SOON:)
