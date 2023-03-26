@@ -7,3 +7,9 @@
 #                                  NOW DON'T FORGET ABOUT TEXT GAMES!
 
 ## THIS CONSELE CAN RUN GAMES AT ALL FILE FORMATS, BUT IF FILE HASN'T GOT ANY TEXT OR CODE OF GAME, IT MUST DON'T RUN
+# Limitations
+
+## sprites 32/32
+
+
+![Sprite](https://i.postimg.cc/WzGBnjfY/for-test.png)
