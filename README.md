@@ -22,6 +22,6 @@
 ## CODE ON PYTHON
 ![PYTHON](https://pbs.twimg.com/profile_images/1083440528446947329/SWoBxJVA_400x400.jpg)
 
-## SOUND -	6 channel chip blerps
+## SOUND -	6 channel chip
 
 # TEXT VISION IS IN DEVELOP AND IT WILL BE DONE SOON:)
